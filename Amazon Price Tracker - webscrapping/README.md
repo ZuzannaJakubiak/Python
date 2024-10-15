@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project implements a web scraper that tracks the price of a specified product on Amazon. It extracts the product title and price, logging this data for analysis over time.
+Based on: https://www.youtube.com/watch?v=bargNl2WeN4&list=PLUaB-1hjhk8G-xVXA5FxT2cLNzd87GInr&pp=iAQB
 
 ## Technologies Used
 - **Python Libraries**: BeautifulSoup, Requests, Pandas

@@ -2,6 +2,8 @@
 
 This repository implements a Convolutional Neural Network (CNN) to classify images of dogs and cats. The model is designed to predict whether an image contains a dog or a cat, utilizing a binary classification approach based on image data.
 
+Dataset: https://drive.google.com/file/d/1HButNIBm_Ql1w_OgPmCe77sYFWKNU9Zl/view?usp=sharing
+
 ### Introduction
 
 The primary goal of this project is to construct a CNN that can accurately classify images of dogs and cats. The model will process images of varying sizes, resize them to a standard dimension, and then train using labeled datasets. 
